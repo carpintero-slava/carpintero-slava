@@ -1,4 +1,4 @@
-### Slava Pohrebniak - Full-Stack JavaScript Developer
+### Full-Stack JavaScript Developer
 
 ## About
 I am a Full-Stack Developer with extensive experience and strong problem-solving skills. Specialize in creating software in a test-driven environment, and am passionate about developing innovative and efficient solutions.
