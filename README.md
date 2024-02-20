@@ -23,10 +23,6 @@ I am a Full-Stack Developer with extensive experience and strong problem-solving
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-## Contact
-- 📧 Email: [carpinteroalegre@gmail.com](mailto:carpinteroalegre@gmail.com)
-- 🌍 Location: Warsaw, Poland
-
 ## Languages
 - English (B2 Level)
 - Ukrainian (Native)
